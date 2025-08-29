@@ -1,20 +1,19 @@
-# prueba_flutter_1
-<<<<<<< HEAD
+Instrucciones para ejecutar
 
-A new Flutter project.
+Requisitos previos
 
-## Getting Started
+Tener instalado Flutter.
+Tener instalado Visual Studio Code y Android Studio.
+Configurar un emulador o dispositivo físico para ejecutar la app.
+Seleccionar el dispositivo
 
-This project is a starting point for a Flutter application.
+Abrir Visual Studio Code.
+Presionar Ctrl + Shift + P (o usar el menú de búsqueda de comandos) y escribir “Flutter: Select Device”.
+Elegir el emulador o dispositivo físico en el que se va a ejecutar la aplicación.
+Ejecutar la aplicación
 
-A few resources to get you started if this is your first Flutter project:
+Abrir la terminal dentro de Visual Studio Code.
+Escribir el comando: flutter run
+Esperar a que Flutter compile y abra la aplicación. Esto puede tardar un poco la primera vez.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-Proyecto 4 - Frameworks
->>>>>>> 76d89c64e09ef61039d45aa6cafe9ef613554cf0
+Cuando termine, verás la aplicación ejecutándose en el emulador o dispositivo seleccionado.
