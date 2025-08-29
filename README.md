@@ -8,6 +8,7 @@ Configurar un emulador o dispositivo físico para ejecutar la app.
 Seleccionar el dispositivo
 
 Abrir Visual Studio Code.
+Seleccionar la carpeta lib y de ahi el archivo main
 Presionar Ctrl + Shift + P (o usar el menú de búsqueda de comandos) y escribir “Flutter: Select Device”.
 Elegir el emulador o dispositivo físico en el que se va a ejecutar la aplicación.
 Ejecutar la aplicación
